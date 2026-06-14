@@ -1,0 +1,6 @@
+{
+  "name": "Richard Services",
+  "description": "Votre partenaire de confiance pour propulser votre présence en ligne, activer la monétisation TikTok, créer des comptes PayPal vérifiés et automatiser votre WhatsApp Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
