@@ -93,7 +93,7 @@ export default function FloatingAssistant() {
       } else if (textLower.includes("whatsapp") || textLower.includes("tunnel") || textLower.includes("vent")) {
         fallbackText += "📱 **WhatsApp & Tunnels de Vente** : Automatisation de votre messagerie professionnelle et intégration d'un tunnel gratuit pour capter des prospects en continu.\n\n👉 Tarif : 3 000 FCFA.";
       } else {
-        fallbackText += "**Richard Services** propose des forfaits complets (TikTok, PayPal, WhatsApp et Marketing) à un tarif combo réduit à 12 000 FCFA seulement au lieu de 17 000 FCFA.\n\nN'hésitez pas à poser une autre question ou contactez directement Richard par WhatsApp au +225 0576075614 !";
+        fallbackText += "**Richard Services** propose des forfaits complets (TikTok, PayPal, WhatsApp et Marketing) à un tarif combo réduit à 12 000 FCFA seulement au lieu de 17 000 FCFA.\n\nN'hésitez pas à poser une autre question ou contactez directement Richard par WhatsApp !";
       }
 
       setMessages((prev) => [

@@ -59,7 +59,7 @@ async function startServer() {
     }
 
     // Default polite comprehensive fallback
-    return `⚡ **Richard Services est à votre écoute !**\n\nNous vous formons et vous guidons de A à Z pour surmonter toutes les pannes et blocages de monétisation, de comptes PayPal, ou d'automatisation de vente en Afrique.\n\nPour une réponse personnalisée et ultra-rapide par rapport à votre message, nous vous suggérons d'échanger en direct avec Richard directement sur WhatsApp au **+225 0576075614** (réponse sous quelques minutes !).\n\nÀ tout de suite ! 😊`;
+    return `⚡ **Richard Services est à votre écoute !**\n\nNous vous formons et vous guidons de A à Z pour surmonter toutes les pannes et blocages de monétisation, de comptes PayPal, ou d'automatisation de vente en Afrique.\n\nPour une réponse personnalisée et ultra-rapide par rapport à votre message, nous vous suggérons d'échanger en direct avec Richard directement sur WhatsApp (réponse sous quelques minutes !).\n\nÀ tout de suite ! 😊`;
   };
 
   // API endpoints go here FIRST
@@ -153,7 +153,7 @@ Ton de communication :
 - S'exprimer en français.
 - Être extrêmement poli, enthousiaste, professionnel, et rassurant (ex: "⚡ Service rapide, professionnel et fiable").
 - Adapter les réponses de manière concise et facile à lire avec des emojis business.
-- Si le client hésite ou souhaite aller plus loin, lui suggérer d'utiliser le calculateur de services ou de cliquer sur le bouton WhatsApp pour commander directement avec Richard (numéro : +225 0576075614).
+- Si le client hésite ou souhaite aller plus loin, lui suggérer d'utiliser le calculateur de services ou de cliquer sur le bouton WhatsApp pour commander directement avec Richard.
 - Ne jamais inventer d'autres tarifs ou de fausses informations non mentionnées ici.
 
 Répondez de manière structurée et attrayante.
